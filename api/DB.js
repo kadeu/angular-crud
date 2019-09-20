@@ -1,4 +1,6 @@
+require('dotenv').config()
+
 
 module.exports = {
-    DB: 'mongo "mongodb+srv://iim-usrbx.gcp.mongodb.net/test" --username kadeu'
+    DB: process.env.DB_PASS
   };
