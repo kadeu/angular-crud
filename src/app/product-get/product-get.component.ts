@@ -22,4 +22,5 @@ export class ProductGetComponent implements OnInit {
     });
   }
 
+  
 }
