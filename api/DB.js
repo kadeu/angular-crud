@@ -1,4 +1,4 @@
 
 module.exports = {
-    DB: 'mongodb://localhost:27017/ng8crud'
+    DB: 'mongo "mongodb+srv://iim-usrbx.gcp.mongodb.net/test" --username kadeu'
   };
